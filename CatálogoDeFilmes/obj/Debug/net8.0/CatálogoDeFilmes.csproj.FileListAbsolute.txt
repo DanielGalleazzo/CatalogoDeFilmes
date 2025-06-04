@@ -1,0 +1,17 @@
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\bin\Debug\net8.0\CatálogoDeFilmes.exe
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\bin\Debug\net8.0\CatálogoDeFilmes.deps.json
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\bin\Debug\net8.0\CatálogoDeFilmes.runtimeconfig.json
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\bin\Debug\net8.0\CatálogoDeFilmes.dll
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\bin\Debug\net8.0\CatálogoDeFilmes.pdb
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.AssemblyInfo.cs
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\Cat_logo.F2C63A34.Up2Date
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.dll
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\refint\CatálogoDeFilmes.dll
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.pdb
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.genruntimeconfig.cache
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\ref\CatálogoDeFilmes.dll
