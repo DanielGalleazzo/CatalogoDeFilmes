@@ -15,3 +15,4 @@ C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\refi
 C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.pdb
 C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.genruntimeconfig.cache
 C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\ref\CatálogoDeFilmes.dll
+C:\Users\danie\Desktop\CatálogoDeFilmes\CatálogoDeFilmes\obj\Debug\net8.0\CatálogoDeFilmes.sourcelink.json

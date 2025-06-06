@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\cat\u00E1logodefilmes\\informacoesfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|solutionrelative:cat\u00E1logodefilmes\\informacoesfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\cat\u00E1logodefilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|solutionrelative:cat\u00E1logodefilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\cat\u00E1logodefilmes\\buscarfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|solutionrelative:cat\u00E1logodefilmes\\buscarfilmes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\cat\u00E1logodefilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|solutionrelative:cat\u00E1logodefilmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\cat\u00E1logodefilmes\\informacoesfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58EA8B6D-59F5-4987-B163-70BE5FDC9ED0}|Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes.csproj|solutionrelative:cat\u00E1logodefilmes\\informacoesfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "InformacoesFilme.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\InformacoesFilme.cs",
               "RelativeDocumentMoniker": "Cat\u00E1logoDeFilmes\\InformacoesFilme.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\InformacoesFilme.cs*",
-              "RelativeToolTip": "Cat\u00E1logoDeFilmes\\InformacoesFilme.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\InformacoesFilme.cs",
+              "RelativeToolTip": "Cat\u00E1logoDeFilmes\\InformacoesFilme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T17:41:23.854Z",
               "EditorCaption": ""
@@ -43,22 +43,22 @@
               "Title": "BuscarFilmes.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\BuscarFilmes.cs",
               "RelativeDocumentMoniker": "Cat\u00E1logoDeFilmes\\BuscarFilmes.cs",
-              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\BuscarFilmes.cs",
-              "RelativeToolTip": "Cat\u00E1logoDeFilmes\\BuscarFilmes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\BuscarFilmes.cs*",
+              "RelativeToolTip": "Cat\u00E1logoDeFilmes\\BuscarFilmes.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T17:37:16.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\Program.cs",
               "RelativeDocumentMoniker": "Cat\u00E1logoDeFilmes\\Program.cs",
               "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\Cat\u00E1logoDeFilmes\\Program.cs",
               "RelativeToolTip": "Cat\u00E1logoDeFilmes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T17:28:33.032Z",
               "EditorCaption": ""
