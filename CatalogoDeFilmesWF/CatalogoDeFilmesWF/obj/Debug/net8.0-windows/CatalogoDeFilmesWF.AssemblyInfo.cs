@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CatalogoDeFilmesWF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3475c170694ab176732d4737617acb701fb1d2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22bc4ea65ab781f3f12996fa3001f35c6b036b59")]
 [assembly: System.Reflection.AssemblyProductAttribute("CatalogoDeFilmesWF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CatalogoDeFilmesWF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
