@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\catalogodefilmeswf\\catalogodefilmeswf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|solutionrelative:catalogodefilmeswf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\catalogodefilmeswf\\catalogodefilmeswf\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|solutionrelative:catalogodefilmeswf\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\catalogodefilmeswf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|solutionrelative:catalogodefilmeswf\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|c:\\users\\danie\\desktop\\cat\u00E1logodefilmes\\catalogodefilmeswf\\catalogodefilmeswf\\informacoesfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4D8993-49CC-4904-B031-DEEC4D713C49}|CatalogoDeFilmesWF\\CatalogoDeFilmesWF.csproj|solutionrelative:catalogodefilmeswf\\informacoesfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InformacoesFilme.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\InformacoesFilme.cs",
+              "RelativeDocumentMoniker": "CatalogoDeFilmesWF\\InformacoesFilme.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\InformacoesFilme.cs",
+              "RelativeToolTip": "CatalogoDeFilmesWF\\InformacoesFilme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:55:52.554Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\Form1.cs",
+              "RelativeDocumentMoniker": "CatalogoDeFilmesWF\\Form1.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\Form1.cs*",
+              "RelativeToolTip": "CatalogoDeFilmesWF\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:28:49.974Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CatalogoDeFilmesWF\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\Form1.Designer.cs",
+              "RelativeToolTip": "CatalogoDeFilmesWF\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:03:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\Form1.cs",
+              "RelativeDocumentMoniker": "CatalogoDeFilmesWF\\Form1.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\Cat\u00E1logoDeFilmes\\CatalogoDeFilmesWF\\CatalogoDeFilmesWF\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "CatalogoDeFilmesWF\\Form1.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:27:05.371Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
